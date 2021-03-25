@@ -1,5 +1,5 @@
-**1. REDCap Epic Integration - Data Reformation Script
-**
+REDCap Epic Integration - Data Reformation Script
+
 Background --
 - Recent pilot integration to pull data directly from EHR
 - The exported file is heavily cluttered with empty cells due to fixed vs. longitudinal/time-dependent data variants
